@@ -1,5 +1,10 @@
 # ICS4U OOP Assignment
 
+1. [Choose a System]() 
+2. [Class Design & Diagram]() 
+3. [Class Implementation]()
+4. [Main Program]()
+
 In this assignment, you will demonstrate your knowledge of OOP by applying object-oriented design to implement a system chosen by you.
 
 ## Part 1 - Choose a System
