@@ -2,8 +2,8 @@
 
 1. [Choose a System](#part-1---choose-a-system) 
 2. [Class Design & Diagram](#part-2---class-design--diagram) 
-3. [Class Implementation]()
-4. [Main Program]()
+3. [Class Implementation](#part-3---class-implementation)
+4. [Main Program](#part-4---main-program)
 
 In this assignment, you will demonstrate your knowledge of OOP by applying object-oriented design to implement a system chosen by you.
 
