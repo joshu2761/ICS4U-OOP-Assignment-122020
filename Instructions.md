@@ -1,7 +1,7 @@
 # ICS4U OOP Assignment
 
 1. [Choose a System](#part-1---choose-a-system) 
-2. [Class Design & Diagram]() 
+2. [Class Design & Diagram](#part-2---class-design--diagram) 
 3. [Class Implementation]()
 4. [Main Program]()
 
