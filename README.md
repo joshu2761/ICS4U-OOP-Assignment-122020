@@ -1,4 +1,4 @@
-# ICS4U-OOP-Assignment-122020
+# ICS4U OOP Assignment
 
 *Insert Class Diagram here*  
 
