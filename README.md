@@ -1,5 +1,7 @@
 # ICS4U OOP Assignment
 
+[*see instructions for details*](Instructions.md)
+
 *Insert Class Diagram here*  
 
 ## Summary
