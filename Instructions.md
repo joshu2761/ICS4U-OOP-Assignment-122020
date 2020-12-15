@@ -37,6 +37,11 @@ Decide on the objects that make up your system and for each, specify:
 
 Use Diagram.net to create a class diagram of your system.  Follow the examples given in class and be sure to indicate the properties, methods, and relationships between classes.
 
+| Level  |  Criteria |
+|---|---|
+| Level 3  | 3 Classes and an aggregate relationship  |
+| Level 4  | 3+ Classes, aggregate relationship, inheritance/abstract relationship  |
+
 ### README.md
 Add your class diagram to the README.md document of this assignment and include a summary of the system you are modelling.
 
@@ -51,12 +56,21 @@ If implementing inheritance relationships or abstract classes, remember that par
 
 
 ## Part 4 - Main Program
-Create an executable main program that simulates your chosen system and demonstrates the usage (instantiation) of your defined classes and their relationships.  For example, when modelling a classroom environment, a main program could:
+Create an executable main program that simulates your chosen system and demonstrates the usage (instantiation) of your defined classes and their relationships.  
+
+For example, when modelling a classroom environment, a main program could:
 * set the teacher for a classroom
 * add students to the classroom
 * assign marks to the student
 * print a list of student marks 
 * print the average mark for the class
+
+| Level  |  Criteria |
+|---|---|
+|  3  | Demonstration of system that includes instantiation of all classes, demonstration of relationships |
+|  4  | Demonstration of system that includes instantiation of all classes, demonstration of relationships.  Demonstration includes user interaction|
+
+
 
 ## .replit doc
 To make complilation and execution as smooth as possible, update your run command in your `.replit` document to include the proper compilation (`javac` command) and running of your program (`java` command).
