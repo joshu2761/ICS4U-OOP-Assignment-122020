@@ -69,12 +69,3 @@ For example, when modelling a classroom environment, a main program could:
 |---|---|
 |  3  | Demonstration of system that includes instantiation of all classes, demonstration of relationships |
 |  4  | Demonstration of system that includes instantiation of all classes, demonstration of relationships.  Demonstration includes user interaction|
-
-
-
-## .replit doc
-To make complilation and execution as smooth as possible, update your run command in your `.replit` document to include the proper compilation (`javac` command) and running of your program (`java` command).
-
-
-
-
